@@ -2,6 +2,7 @@
 
 Release 1
 BOO - Boo changes
+BOM - Bom changes
 Foo - Made some moar Changes
 Bar - First Change Evar
 
